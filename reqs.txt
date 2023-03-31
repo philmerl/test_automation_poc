@@ -1,0 +1,9 @@
+faker==17.6.0
+jsonschema==4.17.3
+robotframework==5.0.1
+robotframework-confluentkafkalibrary==1.9.0.post1
+robotframework-databaselibrary==1.2.4
+robotframework-requests==0.9.4
+robotframework-seleniumlibrary==6.0.0
+rpaframework==22.1.1
+rpaframework-assistant==2.1.2

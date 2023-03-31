@@ -1,5 +1,5 @@
 .\venv
-.\chromedriver
+.\chromedriver.exe
 .\output.xml
 .\report.html
 .\test.xlsx
